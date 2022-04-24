@@ -19,3 +19,10 @@
 
      return 0;
  }
+
+o/p:
+
+Enter Number: 6
+6 is a perfect number.
+Enter Number: 5
+5 is not a perfect number.
